@@ -1,1 +1,462 @@
 # leaning-all-courese
+
+คนที่เป็นโปรแกรมเมอร์ทุกคนค่ะ โปรดฟังค่ะ !!! เอาเป็นว่าสั้นๆง่ายแจกครอสฟรี ทุกภาษา ก่อนใคร
+มีใครรู้ว่ามีใครต้องการ tutorials programming, pdf ebooks หรือวิดีโอ จำนวนทั้งหมดที่ขนาดของสูงสุด 500 gb
+ลิงก์ดาวน์โหลด
+Http://bit.do/500GB
+สร้างการเรียนรู้วัสดุ, ได้โปรดอย่าอัพโหลดใหม่และอย่าซื้อขาย…. แค่ใช้ส่วนตัว aja.
+มันยังเคยอัพโหลดเวอร์ชัน 500 gb อื่นจากอินเดียและตอนนี้ direupload อีกครั้งโดยคนอื่น โปรดดาวน์โหลดก่อน linknya สูญหายหรือถูกลบจากกูเกิลไดร์ฟ
+cr: Rian Yulianto W
+Update10/05/2020
+‍ 𝗨𝗱𝗲𝗺𝘆 𝗖𝗼𝘂𝗿𝘀𝗲 𝗖𝗼𝗹𝗹𝗲𝗰𝘁𝗶𝗼𝗻 | 𝗧𝗲𝗰𝗵𝗬𝗼𝘂
+Python and Jupyter Notebooks for beginners [571 MB]
+https://www.udemy.com/course/python-and-jupyter-notebooks-for-beginners/
+https://mega.nz/#F!ukwiGQDL!n6QssQY8kXSYlIyIsDYU3g
+Angular 7 and 8 Drag N Drop Feature With Highcharts [623 MB]
+https://www.udemy.com/course/angular-7-drag-n-drop-feature-with-highcharts/
+https://mega.nz/#F!ipRgXC7C!XTpHcNyvfgpHEgaltCj-rQ
+Instant Voice Training: How to Train Your Voice Instantly! [112 MB]
+https://www.udemy.com/course/instant-voice-training/
+https://mega.nz/#F!G5ATWYwb!gjAhQuc_xenknfZmjX2ryg
+Practical Ethical Hacking - The Complete Course [11.95 GB]
+https://www.udemy.com/course/practical-ethical-hacking/
+https://mega.nz/#F!rlYU0KBC!xE3EQgXWTPq1z8D6qvAdRA
+The Complete Python Programmer Bootcamp 2020 [6.38 GB]
+https://www.udemy.com/course/the-complete-python-programmer-bootcamp/
+https://mega.nz/#F!kFsEWAKb!azQ4ylkYy_ObEAL6r9XuDQ
+Usability Testing [616 MB]
+https://www.udemy.com/course/usability-testing-f/
+https://mega.nz/#F!oNoAXYJI!H_MX0jkfwJCdWdySVh_4gg
+Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)
+https://www.udemy.com/course/vuejs-2-the-complete-guide/
+https://mega.nz/#F!ygFUxIoD!Ax6RMCoa9uMYF89ySh7QwQ
+100 Algorithms Challenge
+https://www.udemy.com/course/100-algorithms-challenge/
+https://mega.nz/#F!DocTRASZ!0q8RETdNbYtCpCDv7gTrOw
+Ultimate PHP & MySQL Web Development Course & OOP Coding [2.99 GB]
+https://www.udemy.com/course/php-mysql-course/
+https://mega.nz/#F!KeQ2WQQK!9k3E3T6cRwVAoGhqiLg3JA
+AWS Amazon S3 Mastery Bootcamp (2019) [1.75 GB]
+https://www.udemy.com/course/aws-foundations-amazon-s3-mastery-bootcamp/
+https://mega.nz/#F!xFJVkQSD!GY4LbicL9NGlU6Eo4bZUiw
+The Ultimate Azure BootCamp [1.9 GB]
+https://www.udemy.com/course/the-ultimate-microsoft-azure-bootcamp/
+https://mega.nz/#F!VoczHYQb!XucmlyVaZKCTUXug6clUaA
+Advanced ASP.NET Core 3 MVC [4.41 GB]
+https://www.udemy.com/course/master-aspnet-core-3-advanced/
+https://mega.nz/#F!jTglDSqb!YN3Ejxmlqdri6LcvmJ5Ubw
+Using ASP.Net Blazor for Absolute Beginners [1.95 GB]
+https://www.udemy.com/course/using-aspnet-blazor-for-absolute-beginners/
+https://mega.nz/#F!pxUn0Q4a!IvDxzdmtfGrvltK2QMiD5w
+2019 Practice Test AWS Solutions Architect Associate [2.23 GB]
+https://www.udemy.com/course/practice-test-aws-certified-solutions-architect-associate/
+https://mega.nz/#F!UEYEQapQ!BS9BjXH-2pI_wJXBd7mL0g
+React Native Design - Build front end of 10 mobile Apps [1.3 GB]
+https://www.udemy.com/course/react-native-design/
+https://mega.nz/#F!ystHnCBS!Mz9Xr-rb0ToCf-oyskIBRQ
+Learn C++ Programming Mini Course - Power Of Animation [137 MB]
+https://www.udemy.com/course/learn-c-programming-mini-course-power-of-animation/
+https://mega.nz/#F!C91DhaCJ!HQKVbKF52WIrKKEnQuyM-A
+Python Pandas and Altair Data Science & Visualization Course [6.49 GB]
+https://www.udemy.com/course/complete-python-3-pandas-data-science-course/
+https://mega.nz/#F!sB5WhK5C!M6lv5AmVkQHq2F3ZkmBvSA
+Master React Native Animations [1.09 GB]
+https://www.udemy.com/course/master-react-native-animations/
+https://mega.nz/#F!hY9xla5L!5xroAWHTxgi2lExLNDn7mw
+Javascript Modern Bootcamp (2020)
+https://www.udemy.com/course/javascript-beginners-complete-tutorial/
+https://mega.nz/#!8BAyUAiZ!F5h8U17MlJjW-ryUXJnSRC6MgDU9s19J5a4gowWSndU
+Python Best Practices [377 MB]
+https://www.udemy.com/course/python-best-practices/
+https://t.me/Netflixidandpass
+Don't Forget To Share My Channel If U Like It👍😍
+#Udemy
+// 2018
+Android N
+https://mega.nz/#F!JnIXyK7R!xZ4mUsa66DoxmRdrQZ8lCw
+Course Unity:
+IT/Programming Development Megapack (75.60 GB) PART I
+Algorithms and Data Structures in Java
+Data Science and Machine Learning in Python
+iOS Developer Bootcamp
+Kotlin for Android | Beginner to Advanced
+Lynda Learning Node.js
+PHP
+Assorted Programming Books
+Web Developer Bootcamp
+Learn to code by making Video Games
+Udemy CCNP
+Udemy Android App Development
+Udemy Web Development Course
+Complete Python Bootcamp
+Lynda Excel Bootcamp
+Complete Node.js Developer Course
+Udemy MySQL Bootcamp
+Download link is here…
+https://mega.nz/#F!1LJnyLDY!gOws8CyVwZ7sCHlBhML3VQ
+₩₩₩₩₩₩₩₩₩₩₩₩₩₩₩₩₩₩₩₩₩₩₩₩₩₩
+1- .NET FRAMEWORK-
+https://books.goalkicker.com/DotNETFrameworkBook/
+2- Algorithms-
+https://books.goalkicker.com/AlgorithmsBook/
+3- Android-
+https://books.goalkicker.com/AndroidBook/
+4- Angular 2
+https://books.goalkicker.com/Angular2Book/
+5- Angular JS
+https://books.goalkicker.com/AngularJSBook/
+6- BASH
+https://books.goalkicker.com/BashBook/
+7- C
+https://books.goalkicker.com/CBook/
+8- C++
+https://books.goalkicker.com/CPlusPlusBook/
+9- C#
+https://books.goalkicker.com/CSharpBook/
+10- CSS
+https://books.goalkicker.com/CSSBook/
+11- Entity Framework-
+https://books.goalkicker.com/EntityFrameworkBook/
+12- Excel VBA
+https://books.goalkicker.com/ExcelVBABook/
+13- GIT
+https://books.goalkicker.com/GitBook/
+14- Haskell
+https://books.goalkicker.com/HaskellBook/
+15- Hibernate
+https://books.goalkicker.com/HibernateBook/
+16- HTML 5
+https://books.goalkicker.com/HTML5Book/
+17- HTML5 CANVAS
+https://books.goalkicker.com/HTML5CanvasBook/
+18- iOS
+https://books.goalkicker.com/iOSBook/
+19- JAVA
+https://books.goalkicker.com/JavaBook/
+20- JAVA SCRIPT
+https://books.goalkicker.com/JavaScriptBook/
+21- jQuery
+https://books.goalkicker.com/jQueryBook/
+22- KOTLIN
+https://books.goalkicker.com/KotlinBook/
+23- LaTex
+https://books.goalkicker.com/LaTeXBook/
+24- Linux
+https://books.goalkicker.com/LinuxBook/
+25- MATLAB
+https://books.goalkicker.com/MATLABBook/
+26- Microsoft SQL Server
+https://books.goalkicker.com/MicrosoftSQLServerBook/
+27- MongoDB
+https://books.goalkicker.com/MongoDBBook/
+28- MySQL
+https://books.goalkicker.com/MySQLBook/
+29- NodeJS
+https://books.goalkicker.com/NodeJSBook/
+30- Objective-C
+https://books.goalkicker.com/ObjectiveCBook/
+31- Oracle DB
+https://books.goalkicker.com/OracleDatabaseBook/
+32- Perl
+https://books.goalkicker.com/PerlBook/
+33- PHP
+https://books.goalkicker.com/PHPBook/
+34- PostgreSQL
+https://books.goalkicker.com/PostgreSQLBook/
+35- PowerShell
+https://books.goalkicker.com/PowerShellBook/
+36- Python
+https://books.goalkicker.com/PythonBook/
+37- R
+https://books.goalkicker.com/RBook/
+38- React JS
+https://books.goalkicker.com/ReactJSBook/
+39- React Native
+https://books.goalkicker.com/ReactNativeBook/
+40- Ruby
+https://books.goalkicker.com/RubyBook/
+41- Ruby on Rails
+https://books.goalkicker.com/RubyOnRailsBook/
+42- Spring Framework
+https://books.goalkicker.com/SpringFrameworkBook/
+43- SQL
+https://books.goalkicker.com/SQLBook/
+44- Swift
+https://books.goalkicker.com/SwiftBook/
+45- Type Script
+https://books.goalkicker.com/TypeScriptBook2/
+46- VBA
+https://books.goalkicker.com/VBABook/
+47- Visual Basic .Net
+https://books.goalkicker.com/VisualBasic_NETBook/
+48- Xamarin.Forms
+https://books.goalkicker.com/XamarinFormsBook/
+รวมแหล่ง สื่อการสอน แบบ Drive
+🅲🅾️🆄🆁🆂🅴 🅲🅾️🅻🅻🅴🅲🆃🅸🅾️🅽
+✅ Udemy — Learning Strategies for Exam- Brain Training, Improve Memory.zip (2.13 GiB)
+Google Drive - Quota exceeded
+Edit description
+drive.google.com
+✅ Udemy — Build Creative Website Using HTML5, CSS3, jQuery & Bootstrap (5.21GB)
+[FreeCourseSite.com] Udemy - Build Creative Website Using HTML5, CSS3, jQuery & Bootstrap - Google…
+Edit description
+drive.google.com
+✅ Udemy — Learning Strategies for Exam- Brain Training, Improve Memory (2.13GB)
+Google Drive - Quota exceeded
+Edit description
+drive.google.com
+✅ Udemy — Ethical Hacking — Beginners to Expert Level (4.39GB)
+[FreeCourseSite.com] Udemy - Ethical Hacking - Beginners to Expert Level - Google Drive
+Edit description
+drive.google.com
+✅ Udemy — Learning Strategies for Exam- Brain Training, Improve Memory.zip (2.13 GiB)
+Google Drive - Quota exceeded
+Edit description
+drive.google.com
+✅ JavaScript — The Complete Guide 2020 (Beginner + Advanced) (17.25GB)
+JavaScript - The Complete Guide 2020 (Beginner + Advanced) - Google Drive
+Edit description
+drive.google.com
+✅ The Complete Mind Mapping Mastery Course For Success (4.01GB)
+The Complete Mind Mapping Mastery Course For Success - Google Drive
+Edit description
+drive.google.com
+✅ Udacity — Front-End Web Developer Nanodegree.rar (9.68GB)
+Google Drive - Quota exceeded
+Edit description
+drive.google.com
+✅ Full-Stack Javascript (4.4GB)
+Google Drive - Quota exceeded
+Edit description
+drive.google.com
+✅ [Skillshare] Digital Painting — Marco Bucci (1.14GB)
+[Online-Courses.Club] [Skillshare] Digital Painting - Marco Bucci - Google Drive
+Edit description
+drive.google.com
+✅ LinkedIn- Premiere Pro CC 2019 Essential Training The Basics-IVY (3.58GB)
+2018-LinkedIn-Premiere_Pro_CC_2019_Essential_Training_The_Basics-IVY - Google Drive
+Edit description
+drive.google.com
+✅ Udacity — Intro to Self-Driving Cars v1.0.0 (3.62GB)
+[CourseClub.Me] Udacity - Intro to Self-Driving Cars v1.0.0 - Google Drive
+Edit description
+drive.google.com
+✅ Photoshop For Beginners From Scratch To Expert
+photoshop-for-beginners-from-scratch-to-expert - Google Drive
+Edit description
+drive.google.com
+✅ Udemy — The Complete 2019 Web Development Bootcamp (18.28GB)
+[FreeCourseSite.com] Udemy - The Complete 2019 Web Development Bootcamp - Google Drive
+Edit description
+drive.google.com
+✅ 100+ Lynda Courses
+Lynda - Google Drive
+Edit description
+drive.google.com
+✅ The Modern JavaScript Bootcamp (12.75 GiB)
+The Modern JavaScript Bootcamp - Google Drive
+Edit description
+drive.google.com
+✅ Udemy — Python for Computer Vision with OpenCV and Deep Learning (5.67 GiB)
+[FreeTutorials.Eu] Udemy - Python for Computer Vision with OpenCV and Deep Learning - Google Drive
+Edit description
+drive.google.com
+✅ Udemy — Zero to Deep Learning™ with Python and Keras (1.89 GiB)
+[FreeCourseLab.com] Udemy - Zero to Deep Learning™ with Python and Keras - Google Drive
+Edit description
+drive.google.com
+✅ Udemy — Python for Data Science and Machine Learning Bootcamp (3.79 GiB)
+[FreeCourseSite.com] Udemy - Python for Data Science and Machine Learning Bootcamp - Google Drive
+Edit description
+drive.google.com
+✅ Udemy — Python for Data Science and Machine Learning Bootcamp (3.79 GiB)
+[FreeCourseSite.com] Udemy - Python for Data Science and Machine Learning Bootcamp - Google Drive
+Edit description
+drive.google.com
+E-learning, [31.08.18]
+[Posted by Omkar Bhokare]
+Wordpress paid themes
+Premium Wordpress Themes - Google Drive
+Edit description
+drive.google.com
+E-learning, [31.08.18]
+[Posted by Omkar Bhokare]
+✅ Cl test gym
+Career Launcher Test Gym Adaptive 2015 - Google Drive
+Edit description
+drive.google.com
+✅ Cl mocks 2016
+CL Mocks 2016 - Google Drive
+Edit description
+drive.google.com
+✅ Cl mocks 2017
+CL 2017 - Google Drive
+Edit description
+drive.google.com
+Cat dropbox
+https://www.dropbox.com/sh/6xbknnmufa18xks/AACEUipZIOFw87tQ_Lnlu7eHa?dl=0&fbclid=IwAR3eoPhDa38pgEcWBNyYUAOBC8AiMCZXe0R9-ng4GWTS_tZJM3tA4eNYUDM
+✅ Quant sarvesh
+Dropbox - Error
+Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily. Never email…
+www.dropbox.com
+✅ Geometry
+Sarvesh Verma Geometry Chapter @QuantHub.pdf
+Edit description
+drive.google.com
+✅ Practice book mytra
+Meet Google Drive - One place for all your files
+Google Drive is a free way to keep your files backed up and easy to reach from any phone, tablet, or computer. Start…
+drive.google.com
+✅ Wiley english banking
+Meet Google Drive - One place for all your files
+Google Drive is a free way to keep your files backed up and easy to reach from any phone, tablet, or computer. Start…
+drive.google.com
+✅ Lrdi Arun Sharma
+How to Prepare for Logical Reas - Sharma, Arun.pdf
+Edit description
+drive.google.com
+✅ Varc
+Verbal Ability & Reading Comprehension for CAT.pdf
+Edit description
+drive.google.com
+Time videos:
+https://mega.nz/?fbclid=IwAR2BlxnCqhiS4H6qWeLPzmkjMVwNKHmUOYPV2J0cEuaowLx4pEsnNkZh3X0#F!lzxAQKYR!IXFbM_Bpjuw43s5Kvm8XLg
+Byjus videos
+https://mega.nz/?fbclid=IwAR0IzeOO19FNTsGvIqX2EH9AAGVSYVLQKx_RGcPSNYD2ECxmTQanoKiVA1M#F!175zzQLA!GooBVp0suWg-HteWiOo04w!RmQXATwa
+Mega
+https://mega.nz/#F!UhxnnLhK!Dv9SheoZyWwB5_69Uc_cow
+https://mega.nz/#F!NgYjRaoB!ty8bZ4Hyz3Lb7cRJEpLDWw
+https://mega.nz/#F!g0ZhXD4Z!KBG9yAyeXZJsAJKqoq97sQ
+E-learning, [31.08.18]
+[Posted by Omkar Bhokare]
+✅ WindowsServer&PowerShell Books
+Windows&PS_Books - Google Drive
+Edit description
+drive.google.com
+✅ SQLServer Software (2012 and 2014)
+SQLServerSoftwares - Google Drive
+Edit description
+drive.google.com
+✅ Oracle BIG Material Collection
+Oracle Material Big Collection - Google Drive
+Edit description
+drive.google.com
+✅ Oracle Videos
+Oracle - Google Drive
+Edit description
+drive.google.com
+✅ MachineLearning
+MachineLearning - Google Drive
+Edit description
+drive.google.com
+✅ Linux_Programming_Books
+Linux_Programming - Google Drive
+Edit description
+drive.google.com
+✅ AWSVideos&Dumps
+AWS - Google Drive
+Edit description
+drive.google.com
+✅Azure Videos
+Azure - Google Drive
+Edit description
+drive.google.com
+Cr คุณเสธวิทย์ รุ่งแก้ว
+✅Computer Security
+https://mega.nz/#F!9O4iTLqL!pRdKNvaWwxbMmTtMfHsyOQ
+✅Pluralsight CompTIA Project Plus
+https://mega.nz/#F!luQUUSRb!oa3xQzbuYQCIUB3shf-0ag
+✅Forensics
+https://mega.nz/#F!FXoghYoa!rqj8RSOyR5NStTZwbu7GJg
+✅Computer Books
+https://mega.nz/#F!xSRxBAKJ!lx0DsesNYtujp7MnBDMNcQ
+✅Networking
+https://mega.nz/#F!oawFzJiI!nYW_l4i1a61QtyuS18GnnA
+✅Informatic Security
+https://mega.nz/#F!ZSwxyJTT!y4i3XaKsB1heR1w9QVFVdg
+✅Voice Distorters
+https://mega.nz/#F!xXgRjBIQ!YDxHktNZ8zDVtw5mHUXOBg
+✅Anonymous
+https://mega.nz/#F!oKJygAbZ!SOX_W5Wb71BtG7WvIGQcug
+✅Linux 3 Courses
+https://mega.nz/#F!lLoUwQRC!9CF7VcWrDo57sKEe2RZhIA
+✅Udemy — The Complete Financial Analyst Training & Investing Course
+https://mega.nz/#F!WnplkLTJ!F6F6kaowYuss_zrHUSzyTQ
+✅Udemy — Tableau Expert Top Visualization Techniques in Tableau 10
+https://mega.nz/#F!ir5BiTJJ!KzU08UOnbK3YYLLmpq8gCA
+✅Udemy — Essential Poker Math for No Limit HoldEm
+https://mega.nz/#F!OrgDGJTC!TDHKhBI4no8KxWv0SRACQQ
+✅Udemy — MATLAB for the Absolute Beginner
+https://mega.nz/#F!qrBVhKgT!fYMkbHrQt9LaHqr7q4ZsbQ
+✅Udemy — Python for Financial Analysis and Algorithmic Trading
+https://mega.nz/#F!SaZXCQIQ!XcYh_mJXVhhyIrCSpKi5Aw
+✅75 GB Course’s Collection
+All Python Courses,AWS,App Development,CSS,Ethical Hacking, iOS,Linux,SEO,Visual studio
+https://mega.nz/#F!FLQUyb5J!_EXxEI7zjaM1cUirMQFnAQ
+✅Learn Android Studio 2018 From Scratch To Playstore
+https://mega.nz/#F!wXQXiAbR!cPQWPo5tC9SoPbXLbBIzCw
+✅Pentester Academy
+https://mega.nz/#F!BtZAjJIR!nek_MMo14Z_3_D_OLT5hsw
+✅Computer Security
+https://mega.nz/#F!9O4iTLqL!pRdKNvaWwxbMmTtMfHsyOQ
+✅Pluralsight CompTIA Project Plus
+https://mega.nz/#F!luQUUSRb!oa3xQzbuYQCIUB3shf-0ag
+✅Forensics
+https://mega.nz/#F!FXoghYoa!rqj8RSOyR5NStTZwbu7GJg
+✅Computer Books
+https://mega.nz/#F!xSRxBAKJ!lx0DsesNYtujp7MnBDMNcQ
+✅Networking
+https://mega.nz/#F!oawFzJiI!nYW_l4i1a61QtyuS18GnnA
+✅Informatic Security
+https://mega.nz/#F!ZSwxyJTT!y4i3XaKsB1heR1w9QVFVdg
+✅Voice Distorters
+https://mega.nz/#F!xXgRjBIQ!YDxHktNZ8zDVtw5mHUXOBg
+✅Anonymous
+https://mega.nz/#F!oKJygAbZ!SOX_W5Wb71BtG7WvIGQcug
+✅Linux 3 Courses
+https://mega.nz/#F!lLoUwQRC!9CF7VcWrDo57sKEe2RZhIA
+✅Udemy — The Complete Financial Analyst Training & Investing Course
+https://mega.nz/#F!WnplkLTJ!F6F6kaowYuss_zrHUSzyTQ
+✅Udemy — Tableau Expert Top Visualization Techniques in Tableau 10
+https://mega.nz/#F!ir5BiTJJ!KzU08UOnbK3YYLLmpq8gCA
+✅Udemy — Essential Poker Math for No Limit HoldEm
+https://mega.nz/#F!OrgDGJTC!TDHKhBI4no8KxWv0SRACQQ
+✅Udemy — MATLAB for the Absolute Beginner
+https://mega.nz/#F!qrBVhKgT!fYMkbHrQt9LaHqr7q4ZsbQ
+✅Udemy — Python for Financial Analysis and Algorithmic Trading
+https://mega.nz/#F!SaZXCQIQ!XcYh_mJXVhhyIrCSpKi5Aw
+✅Udemy — Learn to Design Your Own Boards
+https://mega.nz/#F!fHgwHIiY!lwe_hj950wFH7Wz4S_NkYA
+✅Udemy — The Complete Ethical Hacking Course
+https://mega.nz/#!WYVGGLoR!phC4VLCR_qe8oRcb3Ul79dtPUYn9nxDjneczOZycAJs
+✅Udemy — Vue JS 2 — The Complete Guide
+(incl. Vue Router & Vuex)
+https://mega.nz/#F!woBRlZhJ!i6-_onYlxAhdzeAg_aFdfg
+✅Udemy — Angular 5 (formerly Angular 2)
+The Complete Guide
+https://mega.nz/#F!1lZFDJqL!rSycqdlbMPXFW1x1g7vTaA
+✅Udemy — Mastering Microcontroller with Embedded Driver Development
+https://mega.nz/#F!aKQGBYKY!VpBpOs-LqvWGi4DlmtAiBA
+✅Udemy — Build Responsive Real World Websites with HTML5 and CSS3 2.0
+https://mega.nz/#F!SehUSYJD!gKp0Vs0AEt5PXJXcqfXK0A
+✅Udemy — Creating Whiteboard Animation Videos Using Videoscribe 2017
+https://mega.nz/#F!bHwgyahL!s51YvsWWW1y-L39Z-Gtcwg
+✅Udemy — Linux Command Line Basics
+https://mega.nz/#F!qW4EXKrT!ZkcgM0Ih1qN8elu-Z0ITpg
+✅Udemy — Microsoft Office 2016 Essential Training 9 Course Bundle
+https://mega.nz/#F!fTwWSAob!As419KYWUubhX19Yfdu8eg
+✅Udemy — The Complete Android Developer Course Beginner To Advanced
+https://mega.nz/#F!nH5gRYaL!rmzReTedRh_wEc6jzcLt8Q
+✅Udemy — The Complete Facebook Ads & Marketing Course 2017
+https://mega.nz/#F!uOwGiYjL!2nXCUDuu-OErvUjrqieLSw
+✅Udemy — How To Hack Website
+https://mega.nz/#!lCQxVIjL!VNQsdvtE24m2mqlDc_0xERWUtSzkUcM0wMR9M41ACgo
+ปล. ฝากแชร์ด้วย อยากเห็นวงการ Programmer ไปสู่สายตาโลกให้ได้ !!!
+Download: https://drive.google.com/drive/u/0/folders/0ByWO0aO1eI_MN1BEd3VNRUZENkU
+ใครสนใจมา join คุยกันได้ครับ
+“มุม Tip โปรแกรมเมอร์🌍🌐🌍” โปรดแตะลิงก์ด้านล่างเพื่อเข้าร่วมโอเพนแชทนี้
+มุม Tip โปรแกรมเมอร์🌍🌐🌍
+มุม Tip โปรแกรมเมอร์🌍🌐🌍 Members 1,081 รวม Tip ต่างๆ ของโปรแกรมเมอร์ ภาษาโปรแกรม ต่างๆ หลักการเขียน tip post ลงทุกวัน…
+line.me
+Cr : https://www.facebook.com/photo.php?fbid=1495866773763884&set=gm.961062613999086&type=3&av=170227463027435&eav=AfZzkpaQFULA5m1lnbvl8oddXHjyfEEKM3_a-ejkoL8Rh4zcqiG5LXlRCAOqvabDXSw&theater&ifg=1 .
+-ขอบคุณสำหรับ จากคนที่สนใจและให้ความสำคัญมาตอนนั้น .
